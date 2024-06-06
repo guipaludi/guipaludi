@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I’m Guilherme <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔭 I’m currently working with Back-end
+- 🔭 I’m currently working with FullStack Developing
 - 🌱 I’m currently learning Cloud computing
 - 📫 How to reach me: https://www.linkedin.com/in/guilherme-paluri/
 
