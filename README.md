@@ -5,7 +5,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/guilherme-paluri/
 
 <div align="center">
-  <a href="https://github.com/guipaluri">
+  <a href="https://github.com/guipaludi">
   <img height="160em" src="https://readmestats.999857.xyz/api?username=guipaluri&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://readmestats.999857.xyz/api/top-langs/?username=guipaluri&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
